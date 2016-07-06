@@ -12,7 +12,7 @@ layout: default
                     {% endif %}
 
                     {% if site.facebook_username %}
-                    <li><a class="fa fa-2x fa-facebook" href="https://facebook.com/{{ site.facebook_username }}"><span class="description">Facebook</span></a></li>
+                    <li title='Facebook'><a class="fa fa-2x fa-facebook" href="https://facebook.com/{{ site.facebook_username }}"><span class="description">Facebook</span></a></li>
                     {% endif %}
 
                     {% if site.vk_username %}
@@ -20,7 +20,7 @@ layout: default
                     {% endif %}
 
                     {% if site.twitter_username %}
-                    <li><a class="fa fa-2x fa-twitter" href="https://twitter.com/{{ site.twitter_username }}"><span class="description">Twitter</span></a></li>
+                    <li title='Twitter'><a class="fa fa-2x fa-twitter" href="https://twitter.com/{{ site.twitter_username }}"><span class="description">Twitter</span></a></li>
                     {% endif %}
 
                     {% if site.google_plus_username %}
@@ -75,16 +75,20 @@ layout: default
                     <li><a class="fa fa-2x fa-weibo" href="https://weibo.com/{{ site.weibo_username }}"><span class="description">微博</span></a></li>
                     {% endif %}
 
+                    {% if site.pubs_url %}
+                    <li title='Publications'><a class="fa fa-2x fa-book" href="{{ site.baseurl }}{{ site.pubs_url }}"><span class="description">Publications</span></a></li>
+                    {% endif %}
+
                     {% if site.blog_url %}
-                    <li><a class="fa fa-2x fa-tags" href="{{ site.baseurl }}{{ site.blog_url }}"><span class="description">Blog</span></a></li>
+                    <li title='Blog'><a class="fa fa-2x fa-tags" href="{{ site.baseurl }}{{ site.blog_url }}"><span class="description">Blog</span></a></li>
                     {% endif %}
 
                     {% if site.bio_url %}
-                    <li><a class="fa fa-2x fa-user" href="{{ site.baseurl }}{{ site.bio_url }}"><span class="description">Bio</span></a></li>
+                    <li title='About Me'><a class="fa fa-2x fa-user" href="{{ site.baseurl }}{{ site.bio_url }}"><span class="description">Bio</span></a></li>
                     {% endif %}
 
                     {% if site.email %}
-                    <li><a class="fa fa-2x fa-envelope" href="mailto:{{ site.email }}"><span class="description">Email</span></a></li>
+                    <li title='Email'><a class="fa fa-2x fa-envelope" href="mailto:{{ site.email }}"><span class="description">Email</span></a></li>
                     {% endif %}
 
                     {% if site.public_key_url %}
