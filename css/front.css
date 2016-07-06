@@ -1,3 +1,12 @@
+div.blog {
+    padding: 5%;
+    background-color: white;
+    margin: 5%;
+}
+div.blog p {
+    text-align: left;
+}
+
 body {
     font-family: 'Open Sans',Helvetica,Arial,sans-serif;
     background-color: rgba(0, 0, 0, 0.9);
@@ -43,11 +52,11 @@ h3 {
     background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
 }
-ul {
+ul.icons {
     list-style: none;
     padding: 0;
 }
-li {
+ul.icons li {
     border-radius: 100%;
     border: 2px solid white;
     color: white;
@@ -57,7 +66,7 @@ li {
     width: 65px;
     height: 65px;
 }
-li:hover {
+ul.icons li:hover {
     color: white;
     text-decoration: none;
     -webkit-transition: 500ms;
@@ -67,16 +76,19 @@ li:hover {
     background-color: rgba(0, 0, 0, 0.5);
 }
 a {
-    color: white;
+    color:black;
     padding: 15px;
     text-decoration: none;
+}
+ul.icons a {
+    color: white;
 }
 .description {
     display: none;
 }
 
 @media (max-width: 450px) {
-ul {
+ul.icons {
     text-align: center;
 }
 li {

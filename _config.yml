@@ -24,7 +24,8 @@ twitter_username: ProfEFP
 # tumblr_username: your_tumblr_username_goes_here
 # weibo_username: your_weibo_username_goes_here
 # lastfm_username: your_lastfm_username_goes_here
-blog_url: "/blog"
+#blog_url: "/blog.html"
+bio_url: "/bio/about-me.html"
 email: "e.frantz.parsons@gmail.com"
 # public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
 
@@ -48,4 +49,4 @@ favicon_img_path: "imgs/favicon.ico"
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: none
