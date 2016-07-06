@@ -22,12 +22,19 @@
 
             {% if site.avatar %}
 	        <a href='/'>
-                <img src="/{{ site.avatar_img_path }}" id="avatar">
+
+	        {% if page.layout == 'default' %}
+                  <img src="/{{ site.avatar_img_path }}" id="avatar" class="avatar-{{ page.layout }}">
+	        {% else %}
+                  <img src="/{{ site.avatar_img_path }}" id="avatar" class="avatar">
+	        {% endif %}
 		</a>
             {% endif %}
 
+
             <h1>{{ site.name }}</h1>
-            <h3>{{ site.description }}</h3>
+	  <h3>{{ site.description }}</h3>
+
 
 	  {{ content }}
         </div>

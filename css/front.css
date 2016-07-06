@@ -33,6 +33,7 @@ body {
     border: 5px solid white;
     margin-bottom: 40px;
 }
+.avatar {float: left;}
 h1 {
     color: white;
     font-weight: bold;
