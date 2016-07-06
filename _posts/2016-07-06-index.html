@@ -1,0 +1,14 @@
+---
+layout: essay
+published: true
+title: Random Thoughts
+category: blog
+---
+
+{% for post in site.posts %}
+  {% if post.category == 'blog' %}
+    {% if post.title != "Random Thoughts" %}
+    <p><a href='{{ post.url }}'>{{ post.title }}<small>( {{ post.date | date_to_string }} )</small></a></p>
+    {% endif %}
+  {% endif %}
+{% endfor %}
