@@ -81,6 +81,8 @@ a {
     padding: 15px;
     text-decoration: none;
 }
+a.footnote, a.reversefootnote { padding: 0px;font-size:0.75em;}
+
 ul.icons a {
     color: white;
 }
