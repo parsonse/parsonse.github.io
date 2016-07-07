@@ -85,10 +85,18 @@ ul.icons a {
     color: white;
 }
 .description {
-    display: none;
+    display: inline-block;
+    color: white;
+    font-family: Arial;
+    margin-top: 20px;
+    margin-left: -5px;
+    font-size: 40%;
+    font-weight: bold;
 }
 
 @media (max-width: 450px) {
+h1 { font-size: 1.75em;}
+h3 { font-size: 1em;}    
 ul.icons {
     text-align: center;
 }
@@ -109,27 +117,21 @@ li:hover {
     transition: none;
 }
 a {
-    text-align: justify;
-    border: 2px solid white;
-    border-radius: 5px;
-    color: white;
-    padding: 15px;
-    padding-left: 30px;
-    width: 70%;
+    /* text-align: justify; */
+    /* border: 2px solid white; */
+    /* border-radius: 5px; */
+    /* color: white; */
+    /* padding: 15px; */
+    /* padding-left: 30px; */
+    /* width: 70%; */
 }
 a:hover {
     -webkit-transition: 500ms;
     -moz-transition: 500ms;
     transition: 500ms;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.25);
     color: white;
     text-decoration: none;
-}
-.description {
-    display: inline-block;
-    color: white;
-    font-family: Arial;
-    margin-left: 40px;
 }
 .content {
     padding-top: 60px;
