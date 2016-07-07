@@ -7,10 +7,13 @@ url: ""
 # Delete the lines you don't need
 # about 5 elements are recomended
 # github_username:  parsonse
-# codepen_username: your_codepen_username_goes_here
 facebook_username: parsonse
-# vk_username: your_vk_username_goes_here
 twitter_username: ProfEFP
+# pubs_url: "/pubs/"
+blog_url: "/posts/"
+bio_url: "/bio/about-me.html"
+email: "e.frantz.parsons@gmail.com"
+
 # google_plus_username: your_google_plus_username_goes_here
 # linkedin_username: your_linked_in_username_goes_here
 # vine_username:  your_vine_username_goes_here
@@ -24,10 +27,8 @@ twitter_username: ProfEFP
 # tumblr_username: your_tumblr_username_goes_here
 # weibo_username: your_weibo_username_goes_here
 # lastfm_username: your_lastfm_username_goes_here
-pubs_url: "/pubs/"
-blog_url: "/posts/"
-bio_url: "/bio/about-me.html"
-email: "e.frantz.parsons@gmail.com"
+# codepen_username: your_codepen_username_goes_here
+# vk_username: your_vk_username_goes_here
 # public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
 
 
