@@ -63,6 +63,8 @@ The Klan seems ready for a resurgence: public interest in the Klan is heightened
 
 If it does revive, it will be crucial not to allow it to derail the powerful critique of structural violence that Black Lives Matter has so successfully launched. The Klan did not kill Alton Sterling-- the police did. Any real effort to make the streets safe for black Americans will have to deal with both. 
 
+###
+
 [^balko]: Radley Balko, “Mass Shooting Hysteria and the Death of John Crawford” Washington Post, September 25, 2014
 
 [^klan-parade]: “30,000 See Klan Parade”, New York Times, September 21, 1924, p. 25.
