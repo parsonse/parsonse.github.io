@@ -24,9 +24,9 @@ twitter_username: ProfEFP
 # tumblr_username: your_tumblr_username_goes_here
 # weibo_username: your_weibo_username_goes_here
 # lastfm_username: your_lastfm_username_goes_here
-#pubs_url: "/pubs/"
-#blog_url: "/blog/"
-#bio_url: "/bio/about-me.html"
+pubs_url: "/pubs/"
+blog_url: "/posts/"
+bio_url: "/bio/about-me.html"
 email: "e.frantz.parsons@gmail.com"
 # public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
 
