@@ -1,3 +1,5 @@
+[Markdown Cheat Sheet](http://support.mashery.com/docs/read/customizing_your_portal/Markdown_Cheat_Sheet)
+
 # front cover jekyll theme
 
 ## Why choose this jekyll theme for your front page?
