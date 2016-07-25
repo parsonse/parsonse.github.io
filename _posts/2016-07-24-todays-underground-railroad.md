@@ -33,6 +33,6 @@ As individuals, however, the first step is to place ourselves in situations in w
 
 Many of us like to imagine that, had we lived in the days of slavery, we would have been part of the Underground Railroad. We flatter ourselves that we would have taken desperate strangers into our homes, fed and sheltered them, and risked our lives to help them on their path to freedom. We know that our current carceral system is deeply unjust, and terribly destructive to the millions of men and women who, in any other age or nation, would never have served time. 
 
-Our prisons our today’s plantations. Ex-convicts are fugitives from them. They are in pressing need of our support, empathy, and assistance.
+Michelle Alexander has rightly labelled the carceral state as the "New Jim Crow," Our prisons are today’s plantations. Ex-convicts are fugitives from them. They are in pressing need of our support, empathy, and assistance.
 
  We need to abolish the carceral state. In the meantime, let’s build a new Underground Railroad.
