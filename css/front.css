@@ -76,7 +76,7 @@ ul.icons li:hover {
     text-decoration: none;
     background-color: rgba(0, 0, 0, 0.5);
 }
-a {
+a.fa-2x {
     color:black;
     padding: 15px;
     text-decoration: none;
