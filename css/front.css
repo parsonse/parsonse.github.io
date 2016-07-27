@@ -142,4 +142,8 @@ a:hover {
 .content {
     padding-top: 60px;
 }
+#avatar {
+    height: 135px;
+    margin-bottom: 20px;
+}
 }
