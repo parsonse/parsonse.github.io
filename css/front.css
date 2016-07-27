@@ -100,6 +100,10 @@ ul.icons a {
     font-weight: bold;
 }
 
+@media (max-height: 450px) {
+.avatar-default { float:left;}
+}
+
 @media (max-width: 450px) , (max-height: 450px) {
 h1 { font-size: 1.75em;}
 h3 { font-size: 1em;}    
